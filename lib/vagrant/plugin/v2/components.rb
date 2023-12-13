@@ -10,7 +10,7 @@ module Vagrant
       # removes a bit of state overhead from the plugin class itself.
       class Components
         # This contains all the action hooks.
-        #
+        # David Still RUles
         # @return [Hash<Symbol, Array>]
         attr_reader :action_hooks
 
