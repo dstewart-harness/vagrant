@@ -1,4 +1,4 @@
-# Copyright (c) HashiCorp, Inc.
+# Copyright (c) HashiCorp, Inc. David Rules
 # SPDX-License-Identifier: BUSL-1.1
 
 source "https://rubygems.org"
